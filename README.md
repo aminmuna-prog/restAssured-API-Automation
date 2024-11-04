@@ -1,7 +1,6 @@
 ## Project Title: Dmoney API Integration Testing Automation using RestAssured
 ## Project Summary: 
-### This project is an automated testing framework for a fintech API, designed to verify core functionalities like user management, transactions, and balance tracking. Built with REST Assured and TestNG, the project automates key user actions such as logging in, 
-### creating accounts, transferring funds, making payments, and checking balances, which ensures the stability and reliability of the API's financial operations.
+#### This project is an automated testing framework for a fintech API, designed to verify core functionalities like user management, transactions, and balance tracking. Built with REST Assured and TestNG, the project automates key user actions such as logging in, creating accounts, transferring funds, making payments, and checking balances, which ensures the stability and reliability of the API's financial operations.
 ## Key Test Scenarios: 
 ### Login Verification:
 - Authenticates using admin credentials and captures an access token, which is reused to authorize subsequent requests
