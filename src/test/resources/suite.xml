@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="dmoney Rest Assured Automation">
+    <test name="User functionalities automation">
+        <classes>
+            <class name="testRunner.UserTestRunner">
+            </class>
+        </classes>
+    </test>
+    <test name="Transaction functionalities automation">
+        <classes>
+            <class name="testRunner.TransactionTestRunner">
+            </class>
+        </classes>
+    </test>
+
+</suite>
